@@ -2,7 +2,6 @@
 A basic node example
 ---
 
-[promise](promise example)
+promise: promise example
 
-
-[async](async + await example)
+async: async + await example
