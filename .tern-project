@@ -1,0 +1,27 @@
+{
+  "ecmaVersion": "7",
+  "libs": [
+    "jquery",
+    "chai",
+    "browser",
+    "underscore"
+  ],
+  "loadEagerly": [],
+  "dontLoad": [
+    "node_modules/**"
+  ],
+  "plugins": {
+    "doc_comment": true,
+    "node": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    },
+    "node_resolve": {},
+    "requirejs": {
+      "baseURL": "",
+      "paths": "",
+      "override": ""
+    }
+  }
+}
